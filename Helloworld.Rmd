@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "HelloWorld"
 author: "Gabriela Suardi"
@@ -20,3 +21,20 @@ install.packages("ggplot2")
 install.packages("shiny")
 install_github("StatsWithR/statsr")
 
+=======
+---
+title: "HelloWorld"
+author: "Gabriela Suardi"
+date: "2023-03-05"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a  Markdown File
+
+>>>>>>> 328fa2caf3a09cf33e94c37e1b1a42cc3f66e8af
