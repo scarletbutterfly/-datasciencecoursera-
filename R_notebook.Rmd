@@ -1,0 +1,12 @@
+---
+title: "R_notebook"
+author: "Gabriela Suardi"
+date: "2023-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This notebook contains notes about Coursera's R Programming course from John Hopkins
